@@ -65,7 +65,7 @@
     </mailingLists>
 
     <prerequisites>
-        <maven>3.3.9</maven>
+        <maven>3.2.6</maven>
     </prerequisites>
 
     <scm>
