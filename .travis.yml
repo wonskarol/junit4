@@ -4,4 +4,5 @@ jdk:
   - oraclejdk8
   - openjdk7
 
-script: mvn verify
+script: mvn verify site:site
+
