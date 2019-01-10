@@ -88,4 +88,9 @@ public class ListTest {
         fFull.remove(new Integer(3));
         assertTrue(!fFull.contains(3));
     }
+
+    @Test
+    public void testDummyFail() {
+        assertTrue(false);
+    }
 }
