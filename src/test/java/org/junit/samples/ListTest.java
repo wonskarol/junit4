@@ -92,6 +92,6 @@ public class ListTest {
     @Test
     public void testDummyFail() {
         // todo
-        assertTrue(true);
+        assertTrue(false);
     }
 }
